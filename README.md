@@ -7,9 +7,10 @@ The repository documents the workflow using a Jupyter notebook.
 ## Current Status
 ✔ Data loading  
 ✔ Data cleaning  
-✔ Exploratory Data Analysis (EDA)  
+✔ Exploratory Data Analysis (EDA) 
+✔ Text preprocessing  
 
-🚧 Text preprocessing, feature engineering, and modeling will be added next.
+🚧 Feature engineering, and modeling will be added next.
 
 ## Files
 - `spam_classification.ipynb` – Complete EDA and analysis
